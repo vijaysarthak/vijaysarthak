@@ -416,38 +416,52 @@ IMPORTANT:
 
 <h2>📈 GitHub Analytics</h2>
 
-<p>
+<p align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=vijaysarthak&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=8D7A84"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijaysarthak&theme=github_dark&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=8D7A84"
     width="48%"
     alt="GitHub Statistics"
   />
+
   <img
     src="https://streak-stats.demolab.com?user=vijaysarthak&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=8D7A84"
     width="48%"
     alt="GitHub Streak"
   />
-</p>
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysarthak&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=8D7A84"
-    width="42%"
-    alt="Top Languages"
-  />
 </p>
 
 <br>
 
-<p>
+<p align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijaysarthak&theme=github_dark&hide_border=true&bg_color=00000000"
+    width="48%"
+    alt="Repositories per Language"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vijaysarthak&theme=github_dark&hide_border=true&bg_color=00000000"
+    width="48%"
+    alt="Most Commit Languages"
+  />
+
+</p>
+
+<br>
+
+<p align="center">
+
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=vijaysarthak&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Sarthak%20Vijay%20%E2%80%94%20Contribution%20Activity"
     width="94%"
-    alt="GitHub Activity Graph"
+    alt="GitHub Contribution Activity Graph"
   />
+
 </p>
 
-<br>
 
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION SNAKE                       -->
@@ -455,24 +469,29 @@ IMPORTANT:
 
 <h2>🐍 Contribution Snake</h2>
 
-<p>
+<p align="center">
+
   <picture>
+
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vijaysarthak/vijaysarthak/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/vijaysarthak/vijaysarthak/output/github-snake-dark.svg"
     />
+
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vijaysarthak/vijaysarthak/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/vijaysarthak/vijaysarthak/output/github-snake.svg"
     />
+
     <img
-      src="https://raw.githubusercontent.com/vijaysarthak/vijaysarthak/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/vijaysarthak/vijaysarthak/output/github-snake.svg"
       width="92%"
       alt="GitHub Contribution Snake"
     />
-  </picture>
-</p>
 
+  </picture>
+
+</p>
 <br>
 
 <!--
