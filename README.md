@@ -418,7 +418,7 @@ IMPORTANT:
   />
 
   <img
-    src="https://streak-stats.vercel.app/?user=vijaysarthak"
+    src="https://streak-stats.vercel.app/?user=vijaysarthak&background=0D1117&hide_border=true&ring=38BDF8&fire=2DD4BF&currStreakLabel=38BDF8&sideLabels=22D3EE&currStreakNum=38BDF8&sideNums=22D3EE&dates=94A3B8"
     width="48%"
     alt="GitHub Streak"
   />
@@ -456,7 +456,6 @@ IMPORTANT:
 </p>
 
 <br>
-
 <!-- ========================================================= -->
 <!--                         EDUCATION                         -->
 <!-- ========================================================= -->
