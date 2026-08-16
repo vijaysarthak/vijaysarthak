@@ -418,7 +418,7 @@ IMPORTANT:
   />
 
   <img
-    src="https://streak-stats.demolab.com/?user=vijaysarthak"
+    src="https://streak-stats.vercel.app/?user=vijaysarthak"
     width="48%"
     alt="GitHub Streak"
   />
