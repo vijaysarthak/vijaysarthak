@@ -232,7 +232,7 @@ IMPORTANT:
 <h3>Cloud & Development Tools</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=8" alt="Cloud and Development Tools">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&perline=8" alt="Cloud and Development Tools">
 </p>
 
 <br>
