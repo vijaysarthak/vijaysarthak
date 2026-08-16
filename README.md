@@ -418,7 +418,7 @@ IMPORTANT:
   />
 
   <img
-    src="https://streak-stats.demolab.com?user=vijaysarthak&hide_border=true&background=00000000&ring=38BDF8&fire=2DD4BF&currStreakLabel=38BDF8&sideLabels=22D3EE&currStreakNum=2DD4BF&sideNums=38BDF8&dates=94A3B8"
+    src="https://streak-stats.demolab.com/?user=vijaysarthak"
     width="48%"
     alt="GitHub Streak"
   />
