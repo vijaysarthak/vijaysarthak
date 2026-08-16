@@ -10,28 +10,6 @@ IMPORTANT:
 
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                        HERO BANNER                        -->
-<!-- ========================================================= -->
-
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:171018,35:341C29,70:7B405F,100:EF93C4&text=SARTHAK%20VIJAY&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Generative%20AI&descAlignY=57&descSize=18&animation=fadeIn"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFF5F9,35:FCE5EE,70:F7C4D8,100:EF93C4&text=SARTHAK%20VIJAY&fontSize=58&fontColor=392631&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Generative%20AI&descAlignY=57&descSize=18&animation=fadeIn"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFF5F9,35:FCE5EE,70:F7C4D8,100:EF93C4&text=SARTHAK%20VIJAY&fontSize=58&fontColor=392631&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Generative%20AI&descAlignY=57&descSize=18&animation=fadeIn"
-    alt="Sarthak Vijay Banner"
-    width="100%"
-  />
-</picture> -->
-
-<br>
-
 <h1>Hey there, I'm Sarthak Vijay 👋</h1>
 
 <p>
@@ -545,33 +523,4 @@ IMPORTANT:
 </p>
 
 <br>
-
-<!-- ========================================================= -->
-<!--                         FOOTER                            -->
-<!-- ========================================================= -->
-
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:EF93C4,40:9B5378,70:4C263A,100:171018&animation=fadeIn"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:FFF5F9,40:F8BBD0,70:EF93C4,100:D968A5&animation=fadeIn"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:FFF5F9,40:F8BBD0,70:EF93C4,100:D968A5&animation=fadeIn"
-    width="100%"
-    alt="Waving footer"
-  />
-</picture>
-
-<br>
-
-<sub>
-  Built with ☕ • Python • Machine Learning • Generative AI • Curiosity
-</sub>
-
-<br><br> -->
-
 </div>
