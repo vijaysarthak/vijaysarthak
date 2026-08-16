@@ -5,7 +5,6 @@ IMPORTANT:
 1. Do NOT add ```markdown before this file.
 2. Do NOT add ``` after this file.
 3. Replace only the LinkedIn URL if you want your exact profile link.
-4. The GitHub Snake requires the GitHub Action shown near the bottom.
 -->
 
 <div align="center">
@@ -14,7 +13,7 @@ IMPORTANT:
 
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+Machine+Learning+Engineer;Predictive+Analytics+%7C+NLP+%7C+Generative+AI;Building+Practical+AI+Solutions+from+Real-World+Data"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+Machine+Learning+Engineer;Predictive+Analytics+%7C+NLP+%7C+Generative+AI;Building+Practical+AI+Solutions+from+Real-World+Data"
     alt="Typing Animation"
   />
 </p>
@@ -24,19 +23,21 @@ IMPORTANT:
 <p>
   <a href="https://github.com/vijaysarthak">
     <img
-      src="https://img.shields.io/badge/GitHub-vijaysarthak-24171D?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-vijaysarthak-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"
       alt="GitHub"
     />
   </a>
+
   <a href="mailto:vijaysarthak28@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-vijaysarthak28%40gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-vijaysarthak28%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
+
   <a href="https://www.linkedin.com/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=392631"
+      src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0F172A"
       alt="LinkedIn"
     />
   </a>
@@ -44,15 +45,17 @@ IMPORTANT:
 
 <p>
   <img
-    src="https://komarev.com/ghpvc/?username=vijaysarthak&label=PROFILE+VIEWS&color=EF93C4&style=for-the-badge&labelColor=24171D"
+    src="https://komarev.com/ghpvc/?username=vijaysarthak&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge&labelColor=0F172A"
     alt="Profile Views"
   />
+
   <img
-    src="https://img.shields.io/github/followers/vijaysarthak?label=FOLLOWERS&style=for-the-badge&color=F8BBD0&labelColor=24171D&logo=github&logoColor=white"
+    src="https://img.shields.io/github/followers/vijaysarthak?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=0F172A&logo=github&logoColor=white"
     alt="GitHub Followers"
   />
+
   <img
-    src="https://img.shields.io/github/stars/vijaysarthak?affiliations=OWNER&label=STARS&style=for-the-badge&color=FF69B4&labelColor=24171D&logo=github&logoColor=white"
+    src="https://img.shields.io/github/stars/vijaysarthak?affiliations=OWNER&label=STARS&style=for-the-badge&color=2DD4BF&labelColor=0F172A&logo=github&logoColor=white"
     alt="GitHub Stars"
   />
 </p>
@@ -87,10 +90,10 @@ IMPORTANT:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-EF93C4?style=flat-square" alt="Python">
-<img src="https://img.shields.io/badge/Machine%20Learning-F8BBD0?style=flat-square&labelColor=24171D" alt="Machine Learning">
-<img src="https://img.shields.io/badge/GenAI-FF69B4?style=flat-square" alt="Generative AI">
-<img src="https://img.shields.io/badge/NLP-8F4B70?style=flat-square&labelColor=24171D" alt="NLP">
+<img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/Machine%20Learning-22D3EE?style=flat-square&labelColor=0F172A" alt="Machine Learning">
+<img src="https://img.shields.io/badge/GenAI-2DD4BF?style=flat-square" alt="Generative AI">
+<img src="https://img.shields.io/badge/NLP-0EA5E9?style=flat-square&labelColor=0F172A" alt="NLP">
 
 </div>
 
@@ -180,31 +183,31 @@ IMPORTANT:
 <h3>Machine Learning & Deep Learning</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-EF93C4?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/Pandas-F8BBD0?style=for-the-badge&logo=pandas&logoColor=24171D" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-EF93C4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-2E2530?style=for-the-badge" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-8F4B70?style=for-the-badge" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Scikit--learn-38BDF8?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-22D3EE?style=for-the-badge&logo=tensorflow&logoColor=0F172A" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-2DD4BF?style=for-the-badge&logo=keras&logoColor=0F172A" alt="Keras">
+  <img src="https://img.shields.io/badge/Pandas-0EA5E9?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-38BDF8?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-334155?style=for-the-badge" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-14B8A6?style=for-the-badge" alt="Seaborn">
 </p>
 
 <h3>Generative AI & NLP</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-2E2530?style=for-the-badge" alt="LangChain">
-  <img src="https://img.shields.io/badge/Hugging%20Face-F8BBD0?style=for-the-badge&logo=huggingface&logoColor=24171D" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/Transformers-EF93C4?style=for-the-badge" alt="Transformers">
-  <img src="https://img.shields.io/badge/GPT--4o-FF69B4?style=for-the-badge" alt="GPT-4o">
-  <img src="https://img.shields.io/badge/Pinecone-24171D?style=for-the-badge" alt="Pinecone">
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logoColor=38BDF8" alt="LangChain">
+  <img src="https://img.shields.io/badge/Hugging%20Face-22D3EE?style=for-the-badge&logo=huggingface&logoColor=0F172A" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Transformers-38BDF8?style=for-the-badge" alt="Transformers">
+  <img src="https://img.shields.io/badge/GPT--4o-2DD4BF?style=for-the-badge&logoColor=0F172A" alt="GPT-4o">
+  <img src="https://img.shields.io/badge/Pinecone-0F172A?style=for-the-badge" alt="Pinecone">
 </p>
 
 <h3>Analytics & Business Intelligence</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Tableau-EF93C4?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Power%20BI-F8BBD0?style=for-the-badge&logo=powerbi&logoColor=24171D" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-FF69B4?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Tableau-38BDF8?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Power%20BI-22D3EE?style=for-the-badge&logo=powerbi&logoColor=0F172A" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-2DD4BF?style=for-the-badge&logo=microsoftexcel&logoColor=0F172A" alt="Excel">
 </p>
 
 <h3>Cloud & Development Tools</h3>
@@ -226,7 +229,7 @@ IMPORTANT:
 <p>
   <a href="https://github.com/vijaysarthak/AI-Medical-ChatBot">
     <img
-      src="https://img.shields.io/badge/VIEW%20PROJECT-EF93C4?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/VIEW%20PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"
       alt="AI Medical ChatBot"
     />
   </a>
@@ -253,7 +256,7 @@ IMPORTANT:
 <p>
   <a href="https://github.com/vijaysarthak/Purchase-Analysis-Dashboard">
     <img
-      src="https://img.shields.io/badge/VIEW%20PROJECT-F8BBD0?style=for-the-badge&logo=github&logoColor=24171D"
+      src="https://img.shields.io/badge/VIEW%20PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=0F172A"
       alt="Purchase Analysis Dashboard"
     />
   </a>
@@ -278,7 +281,7 @@ IMPORTANT:
 <p>
   <a href="https://github.com/vijaysarthak/Sentiment-analysis">
     <img
-      src="https://img.shields.io/badge/VIEW%20PROJECT-FF69B4?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/VIEW%20PROJECT-2DD4BF?style=for-the-badge&logo=github&logoColor=0F172A"
       alt="Sentiment Analysis"
     />
   </a>
@@ -303,7 +306,7 @@ IMPORTANT:
 <p>
   <a href="https://github.com/vijaysarthak/Laptop-Price-Prediction">
     <img
-      src="https://img.shields.io/badge/VIEW%20PROJECT-8F4B70?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"
       alt="Laptop Price Prediction"
     />
   </a>
@@ -331,7 +334,10 @@ IMPORTANT:
 
 <p>
   <a href="https://github.com/vijaysarthak/COVID-19-Clinical-Trials--EDA">
-    <img src="https://img.shields.io/badge/COVID--19%20Clinical%20Trials-E%2FEDA-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="COVID-19 Clinical Trials EDA">
+    <img
+      src="https://img.shields.io/badge/COVID--19%20Clinical%20Trials-E%2FEDA-38BDF8?style=for-the-badge&logo=github&logoColor=white"
+      alt="COVID-19 Clinical Trials EDA"
+    >
   </a>
 </p>
 
@@ -343,7 +349,10 @@ IMPORTANT:
 
 <p>
   <a href="https://github.com/vijaysarthak/Drug-Safety-Analysis">
-    <img src="https://img.shields.io/badge/Drug%20Safety%20Analysis-ML-F8BBD0?style=for-the-badge&logo=github&logoColor=24171D" alt="Drug Safety Analysis">
+    <img
+      src="https://img.shields.io/badge/Drug%20Safety%20Analysis-ML-22D3EE?style=for-the-badge&logo=github&logoColor=0F172A"
+      alt="Drug Safety Analysis"
+    >
   </a>
 </p>
 
@@ -355,7 +364,10 @@ IMPORTANT:
 
 <p>
   <a href="https://github.com/vijaysarthak/Rainfall-Prediction">
-    <img src="https://img.shields.io/badge/Rainfall%20Prediction-Machine%20Learning-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Rainfall Prediction">
+    <img
+      src="https://img.shields.io/badge/Rainfall%20Prediction-Machine%20Learning-2DD4BF?style=for-the-badge&logo=github&logoColor=0F172A"
+      alt="Rainfall Prediction"
+    >
   </a>
 </p>
 
@@ -367,7 +379,10 @@ IMPORTANT:
 
 <p>
   <a href="https://github.com/vijaysarthak/Machine-Learning-for-New-Hire-Compensation">
-    <img src="https://img.shields.io/badge/New%20Hire%20Compensation-Regression-2E2530?style=for-the-badge&logo=github&logoColor=white" alt="New Hire Compensation">
+    <img
+      src="https://img.shields.io/badge/New%20Hire%20Compensation-Regression-0EA5E9?style=for-the-badge&logo=github&logoColor=white"
+      alt="New Hire Compensation"
+    >
   </a>
 </p>
 
@@ -380,7 +395,7 @@ IMPORTANT:
 <p>
   <a href="https://github.com/vijaysarthak?tab=repositories">
     <img
-      src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-24171D?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"
       alt="View All Repositories"
     />
   </a>
@@ -397,13 +412,13 @@ IMPORTANT:
 <p align="center">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijaysarthak&theme=github_dark&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=8D7A84"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijaysarthak&theme=github_dark&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=22D3EE&text_color=94A3B8"
     width="48%"
     alt="GitHub Statistics"
   />
 
   <img
-    src="https://streak-stats.demolab.com?user=vijaysarthak&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=8D7A84"
+    src="https://streak-stats.demolab.com?user=vijaysarthak&hide_border=true&background=00000000&ring=38BDF8&fire=2DD4BF&currStreakLabel=38BDF8&sideLabels=22D3EE&currStreakNum=2DD4BF&sideNums=38BDF8&dates=94A3B8"
     width="48%"
     alt="GitHub Streak"
   />
@@ -433,7 +448,7 @@ IMPORTANT:
 <p align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vijaysarthak&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Sarthak%20Vijay%20%E2%80%94%20Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vijaysarthak&bg_color=00000000&color=38BDF8&line=22D3EE&point=2DD4BF&area=true&hide_border=true&custom_title=Sarthak%20Vijay%20%E2%80%94%20Contribution%20Activity"
     width="94%"
     alt="GitHub Contribution Activity Graph"
   />
@@ -472,15 +487,17 @@ IMPORTANT:
 
 <p>
   <img
-    src="https://img.shields.io/badge/Advanced%20Data%20Science-Internshala-EF93C4?style=for-the-badge"
+    src="https://img.shields.io/badge/Advanced%20Data%20Science-Internshala-38BDF8?style=for-the-badge"
     alt="Advanced Data Science"
   />
+
   <img
-    src="https://img.shields.io/badge/Machine%20Learning-Coursera-F8BBD0?style=for-the-badge&labelColor=24171D"
+    src="https://img.shields.io/badge/Machine%20Learning-Coursera-22D3EE?style=for-the-badge&labelColor=0F172A&logoColor=white"
     alt="Machine Learning"
   />
+
   <img
-    src="https://img.shields.io/badge/Generative%20AI-LinkedIn-FF69B4?style=for-the-badge"
+    src="https://img.shields.io/badge/Generative%20AI-LinkedIn-2DD4BF?style=for-the-badge"
     alt="Generative AI"
   />
 </p>
@@ -494,26 +511,28 @@ IMPORTANT:
 <h2>💌 Let's Connect</h2>
 
 <p>
+
   <a href="mailto:vijaysarthak28@gmail.com">
     <img
-      src="https://img.shields.io/badge/EMAIL-vijaysarthak28%40gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/EMAIL-vijaysarthak28%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
 
   <a href="https://github.com/vijaysarthak">
     <img
-      src="https://img.shields.io/badge/GITHUB-vijaysarthak-24171D?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GITHUB-vijaysarthak-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"
       alt="GitHub"
     />
   </a>
 
   <a href="https://www.linkedin.com/">
     <img
-      src="https://img.shields.io/badge/LINKEDIN-CONNECT-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=24171D"
+      src="https://img.shields.io/badge/LINKEDIN-CONNECT-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0F172A"
       alt="LinkedIn"
     />
   </a>
+
 </p>
 
 <br>
@@ -523,4 +542,5 @@ IMPORTANT:
 </p>
 
 <br>
+
 </div>
