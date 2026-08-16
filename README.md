@@ -550,7 +550,7 @@ IMPORTANT:
 <!--                         FOOTER                            -->
 <!-- ========================================================= -->
 
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:EF93C4,40:9B5378,70:4C263A,100:171018&animation=fadeIn"
@@ -572,6 +572,6 @@ IMPORTANT:
   Built with ☕ • Python • Machine Learning • Generative AI • Curiosity
 </sub>
 
-<br><br>
+<br><br> -->
 
 </div>
