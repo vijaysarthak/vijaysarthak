@@ -101,19 +101,19 @@ IMPORTANT:
 
 <p align="center">
 
-🔬 <strong>Core Areas</strong> — Data Science • Machine Learning • Deep Learning • NLP • LLMs • RAG • GenAI
+🔬 <strong>Core Areas</strong> - Data Science • Machine Learning • Deep Learning • NLP • LLMs • RAG • GenAI
 
 <br><br>
 
-📊 <strong>What I Build</strong> — Predictive Models • NLP Pipelines • AI Applications • BI Dashboards
+📊 <strong>What I Build</strong> - Predictive Models • NLP Pipelines • AI Applications • BI Dashboards
 
 <br><br>
 
-⚙️ <strong>Workflow</strong> — EDA → Feature Engineering → Modeling → Evaluation → Optimization → Deployment
+⚙️ <strong>Workflow</strong> - EDA → Feature Engineering → Modeling → Evaluation → Optimization → Deployment
 
 <br><br>
 
-🎯 <strong>Current Direction</strong> — Practical Generative AI, LLM and intelligent data products
+🎯 <strong>Current Direction</strong> - Practical Generative AI, LLM and intelligent data products
 
 </p>
 
@@ -125,9 +125,9 @@ IMPORTANT:
 
 <h2>💼 Experience</h2>
 
-<p><strong>Data Science Intern — Unified Mentor</strong></p>
+<p><strong>Data Science Intern - Unified Mentor</strong></p>
 
-<p><em>October 2024 – January 2025</em></p>
+<p><em>October 2024 - January 2025</em></p>
 
 <p>
   Built practical machine learning and NLP solutions as part of a data-driven
@@ -465,7 +465,7 @@ IMPORTANT:
 <p>
   <strong>Presidency University, Bangalore</strong><br>
   Master of Computer Applications<br>
-  <strong>2025 – 2027</strong> • <strong>8.62 CGPA</strong>
+  <strong>2025 - 2027</strong> • <strong>8.62 CGPA</strong>
 </p>
 
 <br>
@@ -473,7 +473,7 @@ IMPORTANT:
 <p>
   <strong>Ramaiah Institute of Technology, Bangalore</strong><br>
   Bachelor of Engineering<br>
-  <strong>2019 – 2023</strong> • <strong>7.28 CGPA</strong>
+  <strong>2019 - 2023</strong> • <strong>7.28 CGPA</strong>
 </p>
 
 <br>
