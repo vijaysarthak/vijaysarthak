@@ -35,7 +35,7 @@ IMPORTANT:
     />
   </a>
 
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/sarthak-vijay-526926236)/">
+  <a href="https://www.linkedin.com/in/sarthak-vijay-526926236/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0F172A"
       alt="LinkedIn"
